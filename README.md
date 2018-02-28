@@ -1,6 +1,5 @@
-# Machine dependent programming languages
-    2nd course, 4th semester
-
+# Assembler \ Machine dependent programming languages
+  
     Bauman Moscow State Technical University
 
 | List of Labs  |     Stage     |      Task     |
