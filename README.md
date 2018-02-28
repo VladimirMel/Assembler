@@ -1,5 +1,6 @@
-# Assembler \ Machine dependent programming languages
-  
+# Machine dependent programming languages
+    2nd course, 4th semester
+
     Bauman Moscow State Technical University
 
 | List of Labs  |     Stage     |      Task     |
@@ -14,7 +15,9 @@
 | Lab 8| ✅ |
 | Lab 9| ✅ |
 | Lab 10| ✅ |
-
+|Factorial| ✅ |––|
+|Transpose| ✅ |––|
+|Sorting| ✅ |––|
 
 | Question  |      Stage     |
 | ------------- |:-------------:|
