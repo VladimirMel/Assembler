@@ -15,9 +15,7 @@
 | Lab 8| ✅ |
 | Lab 9| ✅ |
 | Lab 10| ✅ |
-|Factorial| ✅ |––|
-|Transpose| ✅ |––|
-|Sorting| ✅ |––|
+
 
 | Question  |      Stage     |
 | ------------- |:-------------:|
