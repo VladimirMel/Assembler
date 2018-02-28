@@ -1,4 +1,4 @@
-# Machine dependent programming languages
+# Assembler
     2nd course, 4th semester
 
     Bauman Moscow State Technical University
@@ -115,5 +115,5 @@
 <li>🌀 - in process
 </ul>   
 
- <i>COMMENT: </i>Sorry, but tasks will be in Russian. I've no possibility to rewrite it in English.
+ <i>COMMENT: </i> Thanks Panda-Lewandowski!
 # Assembler
